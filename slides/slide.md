@@ -45,6 +45,14 @@ console.log("marp");
 
 ---
 
+## リスト
+
+* aaaa
+* bbbb
+* cccc
+
+---
+
 ## まとめ
 
 - Marp で Markdown からスライド作成
