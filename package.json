@@ -1,0 +1,15 @@
+{
+  "name": "marp-playground",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "preview": "marp --server slides --watch --config-file slides/marp.config.js",
+    "build:html": "marp slides/slide.md -o dist/slide.html --config-file slides/marp.config.js",
+    "build:pdf": "marp slides/slide.md -o dist/slide.pdf --config-file slides/marp.config.js",
+    "build:pptx": "marp slides/slide.md -o dist/slide.pptx --config-file slides/marp.config.js"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.1.0"
+  }
+}
