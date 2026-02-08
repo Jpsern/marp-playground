@@ -2,7 +2,7 @@
 marp: true
 title: サンプル資料
 description: Marp テンプレート
-theme: harbor
+theme: gaia
 paginate: true
 ---
 
@@ -26,6 +26,20 @@ paginate: true
 
 - このスライドは雛形です
 - `slides/slide.md` を編集してください
+
+---
+
+## 本題
+
+```sh
+npm run build:html
+npm run build:pdf
+npm run build:pptx
+```
+
+```js
+console.log("marp");
+```
 
 ---
 
