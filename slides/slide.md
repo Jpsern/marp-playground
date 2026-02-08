@@ -2,7 +2,7 @@
 marp: true
 title: サンプル資料
 description: Marp テンプレート
-theme: gaia
+theme: harbor
 paginate: true
 header: "**Sample** 固定ヘッダ"
 footer: "by **＠jpsern**"

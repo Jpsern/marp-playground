@@ -1,3 +1,3 @@
 export default {
-  themeSet: ["./slides/theme.css"]
+  themeSet: ["./theme.css", "./border.css"]
 };
