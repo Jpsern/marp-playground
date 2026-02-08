@@ -4,6 +4,8 @@ title: サンプル資料
 description: Marp テンプレート
 theme: gaia
 paginate: true
+header: "**Sample** 固定ヘッダ"
+footer: "by **＠jpsern**"
 ---
 
 <!-- _class: title -->
